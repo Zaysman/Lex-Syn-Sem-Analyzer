@@ -1,0 +1,4 @@
+num a = 0;
+num b = 1;
+real r = 37.9;
+real r1 = 41r;
